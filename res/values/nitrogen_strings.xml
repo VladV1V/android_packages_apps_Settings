@@ -47,4 +47,8 @@
     <!-- OTA -->
     <string name="nosupdate_settings_title">Nitrogen OS updates</string>
     <string name="nosupdate_settings_summary">Find new updates</string>
+
+    <!-- Swipe to screenshot -->
+    <string name="swipe_to_screenshot_title">Swipe to screenshot</string>
+    <string name="swipe_to_screenshot_summary">Swipe 3 fingers down the screen to take a screenshot</string>
 </resources>
